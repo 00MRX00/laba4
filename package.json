@@ -11,7 +11,7 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node ./server.js",
     "build": "react-scripts build",
     "test": "npm run cy:run --spec 'cypress/integration/*.spec.js'",
     "eject": "react-scripts eject",
