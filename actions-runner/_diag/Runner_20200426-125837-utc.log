@@ -1,0 +1,130 @@
+[2020-04-26 12:58:37Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2020-04-26 12:58:37Z INFO HostContext] Well known directory 'Bin': 'D:\GitHub\laba4\actions-runner\bin'
+[2020-04-26 12:58:37Z INFO HostContext] Well known directory 'Root': 'D:\GitHub\laba4\actions-runner'
+[2020-04-26 12:58:37Z INFO HostContext] Well known config file 'Credentials': 'D:\GitHub\laba4\actions-runner\.credentials'
+[2020-04-26 12:58:37Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2020-04-26 12:58:37Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.17763.
+[2020-04-26 12:58:37Z INFO Listener] Version: 2.169.1
+[2020-04-26 12:58:38Z INFO Listener] Commit: 4f840647b375b65a4efa361abc1b84f783442de6
+[2020-04-26 12:58:38Z INFO Listener] Culture: ru-RU
+[2020-04-26 12:58:38Z INFO Listener] UI Culture: ru-RU
+[2020-04-26 12:58:38Z INFO HostContext] Well known directory 'Bin': 'D:\GitHub\laba4\actions-runner\bin'
+[2020-04-26 12:58:38Z INFO HostContext] Well known directory 'Root': 'D:\GitHub\laba4\actions-runner'
+[2020-04-26 12:58:38Z INFO Listener] Validating directory permissions for: 'D:\GitHub\laba4\actions-runner'
+[2020-04-26 12:58:38Z INFO CommandLineParser] Parse
+[2020-04-26 12:58:38Z INFO CommandLineParser] Parsing 1 args
+[2020-04-26 12:58:38Z INFO CommandLineParser] parsing argument
+[2020-04-26 12:58:38Z INFO CommandLineParser] HasArgs: False
+[2020-04-26 12:58:38Z INFO CommandLineParser] Adding Command: run
+[2020-04-26 12:58:38Z INFO Listener] Arguments parsed
+[2020-04-26 12:58:38Z INFO Runner] ExecuteCommand
+[2020-04-26 12:58:38Z INFO ConfigurationStore] currentAssemblyLocation: D:\GitHub\laba4\actions-runner\bin\Runner.Listener.dll
+[2020-04-26 12:58:38Z INFO HostContext] Well known directory 'Bin': 'D:\GitHub\laba4\actions-runner\bin'
+[2020-04-26 12:58:38Z INFO ConfigurationStore] binPath: D:\GitHub\laba4\actions-runner\bin
+[2020-04-26 12:58:38Z INFO HostContext] Well known directory 'Bin': 'D:\GitHub\laba4\actions-runner\bin'
+[2020-04-26 12:58:38Z INFO HostContext] Well known directory 'Root': 'D:\GitHub\laba4\actions-runner'
+[2020-04-26 12:58:38Z INFO ConfigurationStore] RootFolder: D:\GitHub\laba4\actions-runner
+[2020-04-26 12:58:38Z INFO HostContext] Well known directory 'Bin': 'D:\GitHub\laba4\actions-runner\bin'
+[2020-04-26 12:58:38Z INFO HostContext] Well known directory 'Root': 'D:\GitHub\laba4\actions-runner'
+[2020-04-26 12:58:38Z INFO HostContext] Well known config file 'Runner': 'D:\GitHub\laba4\actions-runner\.runner'
+[2020-04-26 12:58:38Z INFO ConfigurationStore] ConfigFilePath: D:\GitHub\laba4\actions-runner\.runner
+[2020-04-26 12:58:38Z INFO HostContext] Well known directory 'Bin': 'D:\GitHub\laba4\actions-runner\bin'
+[2020-04-26 12:58:38Z INFO HostContext] Well known directory 'Root': 'D:\GitHub\laba4\actions-runner'
+[2020-04-26 12:58:38Z INFO HostContext] Well known config file 'Credentials': 'D:\GitHub\laba4\actions-runner\.credentials'
+[2020-04-26 12:58:38Z INFO ConfigurationStore] CredFilePath: D:\GitHub\laba4\actions-runner\.credentials
+[2020-04-26 12:58:38Z INFO HostContext] Well known directory 'Bin': 'D:\GitHub\laba4\actions-runner\bin'
+[2020-04-26 12:58:38Z INFO HostContext] Well known directory 'Root': 'D:\GitHub\laba4\actions-runner'
+[2020-04-26 12:58:38Z INFO HostContext] Well known config file 'MigratedCredentials': 'D:\GitHub\laba4\actions-runner\.credentials_migrated'
+[2020-04-26 12:58:38Z INFO ConfigurationStore] MigratedCredFilePath: D:\GitHub\laba4\actions-runner\.credentials_migrated
+[2020-04-26 12:58:38Z INFO HostContext] Well known directory 'Bin': 'D:\GitHub\laba4\actions-runner\bin'
+[2020-04-26 12:58:38Z INFO HostContext] Well known directory 'Root': 'D:\GitHub\laba4\actions-runner'
+[2020-04-26 12:58:38Z INFO HostContext] Well known config file 'Service': 'D:\GitHub\laba4\actions-runner\.service'
+[2020-04-26 12:58:38Z INFO ConfigurationStore] ServiceConfigFilePath: D:\GitHub\laba4\actions-runner\.service
+[2020-04-26 12:58:38Z INFO CommandSettings] Flag 'help': 'False'
+[2020-04-26 12:58:38Z INFO CommandSettings] Flag 'version': 'False'
+[2020-04-26 12:58:38Z INFO CommandSettings] Flag 'commit': 'False'
+[2020-04-26 12:58:38Z INFO CommandSettings] Command 'configure': 'False'
+[2020-04-26 12:58:38Z INFO CommandSettings] Command 'remove': 'False'
+[2020-04-26 12:58:38Z INFO CommandSettings] Command 'warmup': 'False'
+[2020-04-26 12:58:38Z INFO ConfigurationManager] LoadSettings
+[2020-04-26 12:58:38Z INFO ConfigurationStore] IsConfigured()
+[2020-04-26 12:58:38Z INFO ConfigurationStore] IsConfigured: True
+[2020-04-26 12:58:38Z INFO ConfigurationManager] Is configured: True
+[2020-04-26 12:58:38Z INFO ConfigurationStore] Read setting file: 285 chars
+[2020-04-26 12:58:38Z INFO ConfigurationManager] Settings Loaded
+[2020-04-26 12:58:38Z INFO ConfigurationStore] IsServiceConfigured()
+[2020-04-26 12:58:38Z INFO ConfigurationStore] IsServiceConfigured: False
+[2020-04-26 12:58:38Z INFO CommandSettings] Command 'run': 'True'
+[2020-04-26 12:58:38Z INFO ConfigurationStore] IsConfigured()
+[2020-04-26 12:58:38Z INFO ConfigurationStore] IsConfigured: True
+[2020-04-26 12:58:38Z INFO ConfigurationManager] Is configured: True
+[2020-04-26 12:58:38Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2020-04-26 12:58:38Z INFO Runner] Set runner startup type - Manual
+[2020-04-26 12:58:38Z INFO CommandSettings] Flag 'once': 'False'
+[2020-04-26 12:58:38Z INFO Runner] RunAsync
+[2020-04-26 12:58:38Z INFO ConfigurationManager] LoadSettings
+[2020-04-26 12:58:38Z INFO ConfigurationStore] IsConfigured()
+[2020-04-26 12:58:38Z INFO ConfigurationStore] IsConfigured: True
+[2020-04-26 12:58:38Z INFO ConfigurationManager] Is configured: True
+[2020-04-26 12:58:38Z INFO ConfigurationManager] Settings Loaded
+[2020-04-26 12:58:38Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "00mrx00",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelines.actions.githubusercontent.com/serviceHosts/c49358a9-8c8c-49cd-a92d-b37a0eb6f940/",
+  "GitHubUrl": "https://github.com/00MRX00/laba4",
+  "WorkFolder": "_work"
+}
+[2020-04-26 12:58:38Z INFO MessageListener] Loading Credentials
+[2020-04-26 12:58:38Z INFO ConfigurationStore] HasCredentials()
+[2020-04-26 12:58:38Z INFO ConfigurationStore] stored True
+[2020-04-26 12:58:38Z INFO CredentialManager] GetCredentialProvider
+[2020-04-26 12:58:38Z INFO CredentialManager] Creating type OAuth
+[2020-04-26 12:58:38Z INFO CredentialManager] Creating credential type: OAuth
+[2020-04-26 12:58:38Z INFO HostContext] Well known directory 'Bin': 'D:\GitHub\laba4\actions-runner\bin'
+[2020-04-26 12:58:38Z INFO HostContext] Well known directory 'Root': 'D:\GitHub\laba4\actions-runner'
+[2020-04-26 12:58:38Z INFO HostContext] Well known config file 'RSACredentials': 'D:\GitHub\laba4\actions-runner\.credentials_rsaparams'
+[2020-04-26 12:58:38Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\GitHub\laba4\actions-runner\.credentials_rsaparams
+[2020-04-26 12:58:38Z INFO MessageListener] Attempt to create session.
+[2020-04-26 12:58:38Z INFO MessageListener] Connecting to the Runner Server...
+[2020-04-26 12:58:38Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2020-04-26 12:58:38Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2020-04-26 12:58:38Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2020-04-26 12:58:38Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2020-04-26 12:58:38Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2020-04-26 12:58:38Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2020-04-26 12:58:38Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2020-04-26 12:58:39Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2020-04-26 12:58:39Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2020-04-26 12:58:39Z INFO MessageListener] VssConnection created
+[2020-04-26 12:58:39Z INFO Terminal] WRITE LINE: 
+[2020-04-26 12:58:39Z INFO Terminal] WRITE LINE: 
+[2020-04-26 12:58:39Z WARN GitHubActionsService] Authentication failed with status code 401.
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: bae74fe6-03c8-4571-8918-b9e66c85d3ac
+ActivityId: 94bc2e26-2177-48bb-a450-c61f8a160d2d
+X-TFS-Session: cb89e8b2-e459-4596-be94-df8531e6133e
+X-VSS-E2EID: fb30a14a-1ba1-4cee-8912-fc8731c72f29
+X-VSS-SenderDeploymentId: 193695a0-0dcd-ade4-f810-b10ad24a9829
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-MSEdge-Ref: Ref A: BC1A3A76AFF4459BBE402857507CE879 Ref B: FRAEDGE1107 Ref C: 2020-04-26T12:58:39Z
+Date: Sun, 26 Apr 2020 12:58:38 GMT
+
+[2020-04-26 12:58:39Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\GitHub\laba4\actions-runner\.credentials_rsaparams
+[2020-04-26 12:58:39Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\GitHub\laba4\actions-runner\.credentials_rsaparams
+[2020-04-26 12:58:40Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2020-04-26 12:58:40Z INFO MessageListener] Session created.
+[2020-04-26 12:58:40Z INFO MessageListener] Start checking oauth authorization url update.
+[2020-04-26 12:58:40Z INFO Terminal] WRITE LINE: 2020-04-26 12:58:40Z: Listening for Jobs
+[2020-04-26 12:58:40Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2020-04-26 12:58:54Z INFO Terminal] WRITE LINE: Exiting...
+[2020-04-26 12:58:54Z INFO ConfigurationStore] IsServiceConfigured()
+[2020-04-26 12:58:54Z INFO ConfigurationStore] IsServiceConfigured: False
+[2020-04-26 12:58:54Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2020-04-26 12:58:54Z WARN GitHubActionsService] GET request to https://pipelines.actions.githubusercontent.com/serviceHosts/c49358a9-8c8c-49cd-a92d-b37a0eb6f940/_apis/distributedtask/pools/1/messages?sessionId=2aa46592-e4ce-4a72-b6e1-9495bdfa118e has been cancelled.
+[2020-04-26 12:58:54Z INFO MessageListener] Get next message has been cancelled.
+[2020-04-26 12:58:54Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2020-04-26 12:58:55Z INFO Listener] Runner execution been cancelled.
