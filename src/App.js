@@ -43,7 +43,7 @@ class App extends Component{
         return <div>
             <textarea onChange={this.change} id="mainText" name="mainText" cols="40" rows="6" placeholder="Введите свой текст..." autoFocus></textarea>
             <div>
-                <button id="clear" onClick={/* this.clear */} >Очистить</button>
+                <button id="clear" onClick={ this.clear } >Очистить</button>
             </div>
             <p id="charCount">Количество символов: {this.state.charCount}</p>
             <p id="wordCount">Количество слов: {this.state.wordCount}</p>
