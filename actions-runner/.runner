@@ -1,9 +1,0 @@
-﻿{
-  "agentId": 2,
-  "agentName": "00mrx00",
-  "poolId": 1,
-  "poolName": "Default",
-  "serverUrl": "https://pipelines.actions.githubusercontent.com/serviceHosts/c49358a9-8c8c-49cd-a92d-b37a0eb6f940/",
-  "gitHubUrl": "https://github.com/00MRX00/laba4",
-  "workFolder": "_work"
-}
